@@ -52,7 +52,7 @@ export const useFetch = (url, method = 'GET') => {
       fetchData(options);
     }
 
-    fetchData();
+    // fetchData();
 
     return () => {
       controller.abort();
