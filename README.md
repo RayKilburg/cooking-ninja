@@ -12,14 +12,14 @@
 
 ## Usage
 
-### `first run json-server on port 3000, then run the app with "npm run"`
+- first run json-server on port 3000, then run the app with "npm run"`
+
+### `npm install`
 
 ### `json-server --watch ./data/db.json`
 
 Runs the json server in port 3000.<br>
 Open [http://localhost:3000](http://localhost:3000)
-
-### `npm install`
 
 ### `npm start`
 
