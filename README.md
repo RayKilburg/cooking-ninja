@@ -12,7 +12,7 @@
 
 ## Usage
 
-- first run json-server on port 3000, then run the app with "npm run"`
+- first run json-server on port 3000, then run the app with "npm start"
 
 ### `npm install`
 
