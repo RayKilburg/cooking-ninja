@@ -18,7 +18,7 @@
 
 ### `json-server --watch ./data/db.json`
 
-Runs the json server in port 3000.<br>
+Runs the json server on port 3000.<br>
 Open [http://localhost:3000](http://localhost:3000)
 
 ### `npm start`
